@@ -1,4 +1,4 @@
-**## StepUp_module_12to450V**
+## **StepUp_module_12to450V**
 
 ## Project overview
 This project documents the electrical design and PCB layout of a third‑party module by recreating them from scratch in KiCad for learning, repair, and interoperability purposes.
