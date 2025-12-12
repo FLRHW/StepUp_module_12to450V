@@ -1,4 +1,5 @@
 ## **StepUp_module_12to450V**
+This repository contains a reverse‑engineered KiCad schematic and PCB layout for a commercial module originally purchased from AliExpress.
 
 ## Project overview
 This project documents the electrical design and PCB layout of a third‑party module by recreating them from scratch in KiCad for learning, repair, and interoperability purposes.
