@@ -1,16 +1,8 @@
 **## StepUp_module_12to450V**
 
-This repository contains a reverse‑engineered KiCad schematic and PCB layout from a commercial module originally purchased from AliExpress.
-
 ## Project overview
 This project documents the electrical design and PCB layout of a third‑party module by recreating them from scratch in KiCad for learning, repair, and interoperability purposes.
 The repository does not include any original vendor design files, firmware, branding, or trademarks.
-
-## Attribution
-This project uses the [KDT_Hierarchical_KiBot template](https://github.com/nguyen-v/KDT_Hierarchical_KiBot) (MIT License) for KiCad automation and CI/CD workflows with KiBot.
-* Template repository: https://github.com/nguyen-v/KDT_Hierarchical_KiBot
-* License: MIT (see their LICENSE file)
-* KiCad libraries: CC-BY-SA 4.0 (per KiCad exception for derivative designs)
 
 ## Origin and scope
 Original hardware: Generic module purchased from AliExpress (exact vendor and listing may change over time, but such modules can be found using a subset of the following terms: "70W DC-DC 12V 24V To 200V-450V Voltage Adjustable Boost Power Converter Nixie Clock Tube Amplifier Capacitor Charging").
