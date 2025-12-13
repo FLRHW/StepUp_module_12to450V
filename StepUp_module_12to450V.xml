@@ -75,7 +75,7 @@
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
     <textvar name="GIT_HASH_PCB">3e65155</textvar>
-    <textvar name="GIT_HASH_SCH">3e65155</textvar>
+    <textvar name="GIT_HASH_SCH">1fe9677</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
@@ -83,8 +83,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">12-Dec-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-12-12</textvar>
+    <textvar name="RELEASE_DATE">13-Dec-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-12-13</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
@@ -260,6 +260,20 @@
     </sheet>
   </design>
   <components>
+    <comp ref="TR1">
+      <value>~</value>
+      <footprint>Personal:Tr12to450V_Alixp</footprint>
+      <fields>
+        <field name="Footprint">Personal:Tr12to450V_Alixp</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="personal" part="TR_12to450V_alixp" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepUp_module_12to450V.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caf80598-23a4-44a7-94a6-45e38a0d4b4c</tstamps>
+    </comp>
     <comp ref="C1">
       <value>10n</value>
       <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
@@ -1180,6 +1194,18 @@
     <net code="20" name="Net-(U1-OUTPUT)" class="Default">
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="OUTPUT" pintype="output"/>
+    </net>
+    <net code="21" name="unconnected-(TR1-Pad1)" class="Default">
+      <node ref="TR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(TR1-Pad2)" class="Default">
+      <node ref="TR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(TR1-Pad5)" class="Default">
+      <node ref="TR1" pin="5" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(TR1-Pad7)" class="Default">
+      <node ref="TR1" pin="7" pintype="passive"/>
     </net>
   </nets>
 </export>
