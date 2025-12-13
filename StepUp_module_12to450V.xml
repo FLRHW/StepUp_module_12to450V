@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">3e65155</textvar>
+    <textvar name="GIT_HASH_PCB">8239d6d</textvar>
     <textvar name="GIT_HASH_SCH">1fe9677</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
