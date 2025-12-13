@@ -5,6 +5,8 @@
 *.wrl   binary
 *.igs   binary
 *.iges  binary
+
+
 *.csv filter=bom_csv
 *.csv filter=bom_csv
 *.html filter=bom_html
@@ -13,3 +15,6 @@
 *.xml filter=xml
 *.kicad_pcb filter=kicad_pcb_f
 *.net filter=net_filter
+
+# KiCad project files – keep LF, no warnings
+*.kicad_pro text eol=lf

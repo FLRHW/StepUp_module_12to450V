@@ -25,7 +25,7 @@
 		)
 		(uuid "000ea912-7563-47e5-be4a-8607b961f825")
 	)
-	(text "RELEASED - A board with this schematic has been sent to production."
+	(text "RELEASED - Design ready for manufacturing."
 		(exclude_from_sim no)
 		(at 222.25 217.17 0)
 		(effects
@@ -138,7 +138,7 @@
 		)
 		(uuid "1009d74b-dab5-4621-8c04-f00d978fa044")
 	)
-	(text "PRELIMINARY - Close to final schematic."
+	(text "PRELIMINARY - Minor schematic changes are expected, ready for layout planning."
 		(exclude_from_sim no)
 		(at 222.25 204.47 0)
 		(effects
@@ -223,7 +223,7 @@
 		)
 		(uuid "22628abe-bb8c-4ca9-a559-3456e08ce477")
 	)
-	(text "DRAFT - Very early stage of schematic, ignore details."
+	(text "DRAFT - Early concept stage, schematic drafted."
 		(exclude_from_sim no)
 		(at 222.25 198.12 0)
 		(effects
@@ -659,7 +659,7 @@
 		)
 		(uuid "6f858022-2996-4265-8d0d-5392f83665ac")
 	)
-	(text "CHECKED - There shouldn't be any mistakes. Contact the engineer if you find any."
+	(text "CHECKED - DRC completed, schematic and layout ready for review."
 		(exclude_from_sim no)
 		(at 222.25 210.82 0)
 		(effects
