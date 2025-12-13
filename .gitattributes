@@ -5,3 +5,10 @@
 *.xml filter=xml
 *.kicad_pcb filter=kicad_pcb_f
 *.net filter=net_filter
+
+# CAD / 3D files
+*.step  binary
+*.stp   binary
+*.wrl   binary
+*.igs   binary
+*.iges  binary
