@@ -75,7 +75,7 @@
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
     <textvar name="GIT_HASH_PCB">7d63e9b</textvar>
-    <textvar name="GIT_HASH_SCH">7d63e9b</textvar>
+    <textvar name="GIT_HASH_SCH">76a8903</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
