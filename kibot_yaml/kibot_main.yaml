@@ -9,25 +9,25 @@ variants:
   # Project variants
 
   - name: 'DRAFT'
-    comment: "Very early stage of schematic, ignore details."
+    comment: "Early concept stage, schematic drafted."
     type: kibom
     variant: DRAFT
     exclude_filter: '_null'
 
   - name: 'PRELIMINARY'
-    comment: "Close to final schematic."
+    comment: "Minor schematic changes are expected, ready for layout planning."
     type: kibom
     variant: PRELIMINARY
     exclude_filter: '_null'
 
   - name: 'CHECKED'
-    comment: "There shouldn't be any mistakes. Contact the engineer if you find any."
+    comment: "DRC completed, schematic and layout ready for review."
     type: kibom
     variant: CHECKED
     exclude_filter: '_null'
     
   - name: 'RELEASED'
-    comment: "A board with this schematic has been sent to production."
+    comment: "Design ready for manufacturing."
     type: kibom
     variant: RELEASED
     exclude_filter: '_null'
@@ -563,7 +563,7 @@ definitions:
   COMPANY: FR
   DESIGNER: FR
 
-  LOGO: 'Logos/dummy_logo.png'
+  LOGO: 'Logos/module.png'
   GIT_URL: 'https://github.com/FLRHW/StepUp_module_12to450V'
 
   # Preflight ==================================================================

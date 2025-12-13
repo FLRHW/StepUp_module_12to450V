@@ -4,7 +4,8 @@
 *.stp   binary
 *.wrl   binary
 *.igs   binary
-*.iges  binary*.csv filter=bom_csv
+*.iges  binary
+*.csv filter=bom_csv
 *.csv filter=bom_csv
 *.html filter=bom_html
 *.gbr filter=gerber
