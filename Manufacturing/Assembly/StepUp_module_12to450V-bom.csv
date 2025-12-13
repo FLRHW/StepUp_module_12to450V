@@ -21,5 +21,5 @@ Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufactur
 20,1,R3,100k,~,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Resistor,,,
 21,2,R10 R11,140k,~,R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,Resistor,,,
 22,1,RV1,5k,~,Potentiometer_Bourns_3296W_Vertical,Trim-potentiometer,,,
-23,2,TR1 TR2,~,,Tr12to450V_Alixp,,,,
+23,1,TR2,~,,Tr12to450V_Alixp,,,,
 24,1,U1,UC2843AQD8R,https://www.ti.com/lit/gpn/uc2843aq,DIP-8_W7.62mm,,,,
