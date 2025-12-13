@@ -34,8 +34,5 @@ If you are the rights holder for the original hardware and have concerns about t
 * High voltages, high currents, and incorrect connections can cause injury, death, or damage to equipment; ensure appropriate protections and testing procedures.
 
 ## Contributing
-Contributions are welcome in the form of:
-* Corrections or improvements to the schematic or layout.
-* Measurements, test results, and validation data.
-* Alternative footprints, BOM suggestions, or documentation enhancements.
+Contributions are welcome, e.g. corrections or improvements to the schematic or layout.
 Please use pull requests and issues to propose changes or discuss potential improvements.
