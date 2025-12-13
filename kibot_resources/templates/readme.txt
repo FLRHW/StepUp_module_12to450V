@@ -1,17 +1,11 @@
 <p align="center" width="100%">
-  <img alt="Logo" width="33%" src="Logos/dummy_logo.svg">
-</p>
-
-<h1 align="center">${BOARD_NAME}</h1>
-
-<p align="center" width="100%">
   <a href="${GIT_URL}/actions/workflows/ci.yaml">
     <img alt="CI Badge" src="${GIT_URL}/actions/workflows/ci.yaml/badge.svg?branch=">
   </a>
 </p>
 
 <p align="center" width="100%">
-    <img src="Images/dummy_image.png">
+    <img src="Images/module.png">
 </p>
 
 ***
@@ -24,7 +18,7 @@
 
 ***
 
-## *StepUp_module_12to450V*
+# **StepUp_module_12to450V**
 This repository contains a reverse‑engineered KiCad schematic and PCB layout from a commercial module originally purchased from AliExpress.
 
 ## Project overview
