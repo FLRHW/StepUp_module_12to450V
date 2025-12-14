@@ -3980,7 +3980,7 @@
 			(uuid "9bd70fd6-8250-42e0-a98c-5adb51f3405b")
 		)
 		(instances
-			(project ""
+			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "TR2")
 					(unit 1)
@@ -5128,7 +5128,7 @@
 			(uuid "2279d560-d36e-4734-9c51-ebef37ed69c4")
 		)
 		(instances
-			(project ""
+			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c"
 					(reference "J1")
 					(unit 1)

@@ -83,7 +83,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Section A - Title A.kicad_sch"
+		(property "Sheetfile" "Schematic.kicad_sch"
 			(at 190.5 97.1046 0)
 			(effects
 				(font

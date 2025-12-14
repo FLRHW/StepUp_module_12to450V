@@ -96,6 +96,20 @@
 		)
 		(uuid "092e98e3-7957-434d-bfdd-b05263750684")
 	)
+	(text "${SHEET_NAME_5}"
+		(exclude_from_sim no)
+		(at 45.72 114.3 0)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 4 4)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+			(href "#7")
+		)
+		(uuid "09a8b001-8e04-4cc1-8d9b-8535bd79adf1")
+	)
 	(text "Page"
 		(exclude_from_sim no)
 		(at 332.74 71.12 0)
@@ -307,20 +321,6 @@
 			(href "#2")
 		)
 		(uuid "29fb83bd-9708-49c1-a835-3671e07a7b95")
-	)
-	(text "${SHEET_NAME_5}"
-		(exclude_from_sim no)
-		(at 45.72 114.3 0)
-		(effects
-			(font
-				(face "Times New Roman")
-				(size 4 4)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-			(href "#5")
-		)
-		(uuid "2ac8cebd-4832-4e21-b843-d3261443e2b6")
 	)
 	(text "Index"
 		(exclude_from_sim no)
@@ -1771,7 +1771,7 @@
 		(instances
 			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c"
-					(page "7")
+					(page "5")
 				)
 			)
 		)

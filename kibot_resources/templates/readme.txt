@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img src="Images/module.png">
+    <img src="Logos/module.png">
 </p>
 
 ***
