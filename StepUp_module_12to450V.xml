@@ -6,16 +6,14 @@
     <tool>Eeschema 9.0.6+1</tool>
     <textvar name="ASSEMBLY_NOTES">ASSEMBLY NOTES (UNLESS OTHERWISE SPECIFIED)
 
-1)	DO NOT POPULATE PARTS ARE MARKED WITH A RED CROSS.
+1)	DO NOT POPULATE PARTS MARKED WITH A RED CROSS.
 
-2)	DO NOT POPULATE PARTS ARE NOT PRESENT IN THE BOM.
+2)	THE BOM DOES NOT CONTAIN PARTS MARKED WITH A RED CROSS.
 
 3)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY
 	FILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.
 
-4)	CONFORMAL COATING IS NOT REQUIRED.
-
-5)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION
+4)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION
 	WHEN VIEWED FROM THE TOP.</textvar>
     <textvar name="BOARD_NAME">Module</textvar>
     <textvar name="COMPANY">FR</textvar>
@@ -39,7 +37,7 @@
 4)	SURFACE FINISH: IMMERSION GOLD
 
 5)	SOLDERMASK ON BOTH SIDES OF THE BOARD SHALL 
-	BE LPI, COLOR GREEN.
+	BE LPI, COLOR TOP: #80715000 / BOTTOM: GREEN.
 
 6)	SILK SCREEN LEGEND TO BE APPLIED PER LAYER 
 	STACKUP USING WHITE NON-CONDUCTIVE EPOXY INK.
@@ -74,7 +72,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">3d52a43</textvar>
+    <textvar name="GIT_HASH_PCB">5fdf240</textvar>
     <textvar name="GIT_HASH_SCH">95cd2d0</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
@@ -536,11 +534,11 @@
     </comp>
     <comp ref="J1">
       <value>Screw_Terminal_01x04</value>
-      <footprint>TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm</footprint>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
-        <field name="Footprint">TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm</field>
+        <field name="Footprint">TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal</field>
         <field name="Datasheet">~</field>
         <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>

@@ -10,7 +10,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D3","LED","LED_D3.0mm",37.1435,17.8577,0.0000,top
 "D4","?","D_A-405_P10.16mm_Horizontal",95.5635,9.6027,0.0000,top
 "F1","?","Fuseholder_Clip-5x20mm_Eaton_1A5601-01_Inline_P20.80x6.76mm_D1.70mm_Horizontal",106.5985,44.5277,180.0000,top
-"J1","Screw_Terminal_01x04","TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm",107.8825,23.5587,90.0000,top
+"J1","Screw_Terminal_01x04","TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal",107.8825,23.5587,90.0000,top
 "Q1","HY1707","TO-220F-3_Vertical",51.7485,47.0077,0.0000,top
 "Q2","HY1707","TO-220F-3_Vertical",71.4335,47.0077,0.0000,top
 "Q3","S8050","TO-92_Inline_Wide",41.5885,10.5977,180.0000,top

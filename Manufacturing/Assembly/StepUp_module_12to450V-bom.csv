@@ -7,7 +7,7 @@ Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufactur
 6,1,C7,1000u,~,C_Radial_D10.0mm_H20.0mm_P5.00mm,Polarized capacitor,,,
 7,2,D4 F1,?,~,D_A-405_P10.16mm_Horizontal,Diode Fuse,,,
 8,1,D3,LED,~,LED_D3.0mm,Light emitting diode,,,
-9,1,J1,Screw_Terminal_01x04,~,TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm,"Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+9,1,J1,Screw_Terminal_01x04,~,"TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal","Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
 10,2,Q1 Q2,HY1707,~,TO-220F-3_Vertical,"N-MOSFET transistor, gate/drain/source",,,
 11,1,Q3,S8050,http://www.unisonic.com.tw/datasheet/S8050.pdf,TO-92_Inline_Wide,"0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92",,,
 12,1,R9,R,~,R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,Resistor,,,
