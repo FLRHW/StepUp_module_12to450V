@@ -74,8 +74,8 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">7d63e9b</textvar>
-    <textvar name="GIT_HASH_SCH">76a8903</textvar>
+    <textvar name="GIT_HASH_PCB">0ceba30</textvar>
+    <textvar name="GIT_HASH_SCH">0ceba30</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
@@ -83,8 +83,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">13-Dec-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-12-13</textvar>
+    <textvar name="RELEASE_DATE">14-Dec-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-12-14</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
@@ -186,7 +186,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="4" name="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/">
+    <sheet number="4" name="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/">
       <title_block>
         <title>Sheet Title A</title>
         <company>FR</company>
@@ -222,25 +222,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="6" name="/Power - Sequencing/" tstamps="/5fb05893-0da3-4f58-a52b-cb6d6f4cb80b/">
-      <title_block>
-        <title>Power - Sequencing</title>
-        <company>FR</company>
-        <rev>+ (Unreleased)</rev>
-        <date>Date2</date>
-        <source>Power - Sequencing.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
-        <comment number="4" value=""/>
-        <comment number="5" value=""/>
-        <comment number="6" value=""/>
-        <comment number="7" value=""/>
-        <comment number="8" value=""/>
-        <comment number="9" value=""/>
-      </title_block>
-    </sheet>
-    <sheet number="7" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
+    <sheet number="6" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
       <title_block>
         <title>Revision History</title>
         <company>FR</company>
@@ -271,11 +253,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>6bc2e9cc-58c8-4abe-b5c6-e19decbfa21f</tstamps>
     </comp>
     <comp ref="C2">
@@ -289,11 +271,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>2df99a36-9626-4818-928e-f38cd8405030</tstamps>
     </comp>
     <comp ref="C3">
@@ -307,11 +289,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>c4111270-d00f-48a9-9dd9-36d67ea28f03</tstamps>
     </comp>
     <comp ref="C4">
@@ -325,11 +307,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>90c65df2-e485-4679-945d-b2eb649fd121</tstamps>
     </comp>
     <comp ref="C5">
@@ -343,11 +325,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>a2ed1283-e5aa-49c6-8640-63a19cd93610</tstamps>
     </comp>
     <comp ref="C6">
@@ -361,11 +343,11 @@
         <field name="Description">Polarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>bace643f-db99-4b17-858d-91428b8fa9d1</tstamps>
     </comp>
     <comp ref="C7">
@@ -379,11 +361,11 @@
         <field name="Description">Polarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>1f2c97bf-cb86-43f7-b39c-4d4bea92381b</tstamps>
     </comp>
     <comp ref="C8">
@@ -397,11 +379,11 @@
         <field name="Description">Polarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>95416784-e858-486b-b7f9-b922d234a123</tstamps>
     </comp>
     <comp ref="D1">
@@ -417,11 +399,11 @@
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>3ae366b9-7687-4457-941d-7be73be2bad8</tstamps>
     </comp>
     <comp ref="D2">
@@ -439,11 +421,11 @@
       <libsource lib="Device" part="D" description="Diode"/>
       <property name="Sim.Device" value="D"/>
       <property name="Sim.Pins" value="1=K 2=A"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>d3403016-f6ea-4152-b070-14ed88679e72</tstamps>
     </comp>
     <comp ref="F1">
@@ -457,11 +439,11 @@
         <field name="Description">Fuse</field>
       </fields>
       <libsource lib="Device" part="Fuse" description="Fuse"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="fuse"/>
       <property name="ki_fp_filters" value="*Fuse*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>9a47ac71-c63d-4430-b57b-0a61627a3a92</tstamps>
     </comp>
     <comp ref="J1">
@@ -475,11 +457,11 @@
         <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="screw terminal"/>
       <property name="ki_fp_filters" value="TerminalBlock*:*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>8dd15cfa-886b-4efa-b6c1-555697915d80</tstamps>
     </comp>
     <comp ref="Q2">
@@ -493,10 +475,10 @@
         <field name="Description">N-MOSFET transistor, gate/drain/source</field>
       </fields>
       <libsource lib="Transistor_FET" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>48d2c3db-208f-409a-b788-898cd7f8d105</tstamps>
     </comp>
     <comp ref="Q3">
@@ -510,11 +492,11 @@
         <field name="Description">0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92</field>
       </fields>
       <libsource lib="Transistor_BJT" part="S8050" description="0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="S8050 NPN Low Voltage High Current Transistor"/>
       <property name="ki_fp_filters" value="TO?92*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>3297bd3c-fbd0-4f7b-9f95-aff5a96abf36</tstamps>
     </comp>
     <comp ref="Q4">
@@ -528,10 +510,10 @@
         <field name="Description">N-MOSFET transistor, gate/drain/source</field>
       </fields>
       <libsource lib="Transistor_FET" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>5231c459-ba8d-465a-877b-3dce4ade35cd</tstamps>
     </comp>
     <comp ref="R2">
@@ -545,11 +527,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>9baeb3cf-2ae7-4904-afcd-dcea4335982f</tstamps>
     </comp>
     <comp ref="R3">
@@ -563,11 +545,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>f3b045cf-37fa-465b-8e05-d56c429e0452</tstamps>
     </comp>
     <comp ref="R4">
@@ -581,11 +563,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>bb10e904-2d70-44e7-9ca5-f24cdc6da508</tstamps>
     </comp>
     <comp ref="R5">
@@ -599,11 +581,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>4f5e767a-be5b-470f-ad49-d34e81f5e7a9</tstamps>
     </comp>
     <comp ref="R6">
@@ -617,11 +599,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>9fd57338-ef87-4e55-80db-70d5aa37b67c</tstamps>
     </comp>
     <comp ref="R7">
@@ -635,11 +617,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>2a61efd0-353a-4575-8ed3-6369baa9fd0d</tstamps>
     </comp>
     <comp ref="R8">
@@ -653,11 +635,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>9553b2c5-4706-48fa-8397-16d9f89c973b</tstamps>
     </comp>
     <comp ref="R9">
@@ -671,11 +653,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>b61c2269-2618-40fa-8876-5c50b796bcca</tstamps>
     </comp>
     <comp ref="R10">
@@ -689,11 +671,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>3374d1b4-2e6f-453b-bea0-76d1a0ff55e2</tstamps>
     </comp>
     <comp ref="R11">
@@ -707,11 +689,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>5e9e89bf-b063-4f75-a294-4273b768a3a1</tstamps>
     </comp>
     <comp ref="R12">
@@ -725,11 +707,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>90f1e98a-f3c7-4e8d-95db-0aa5541cd232</tstamps>
     </comp>
     <comp ref="R13">
@@ -743,11 +725,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>c178d818-73d2-4e4f-a34f-d180bd3541d2</tstamps>
     </comp>
     <comp ref="R14">
@@ -761,11 +743,11 @@
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>f9d8b120-ef41-4607-a83a-7517d8eefcee</tstamps>
     </comp>
     <comp ref="RV1">
@@ -779,11 +761,11 @@
         <field name="Description">Trim-potentiometer</field>
       </fields>
       <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
       <property name="ki_fp_filters" value="Potentiometer*"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>c985b7bd-b5db-40f6-9af0-796988b813ca</tstamps>
     </comp>
     <comp ref="TR2">
@@ -795,9 +777,9 @@
         <field name="Description"/>
       </fields>
       <libsource lib="personal" part="TR_12to450V_alixp" description=""/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>0eed4208-d852-4e25-b67d-5533ac0a7800</tstamps>
     </comp>
     <comp ref="U1">
@@ -810,11 +792,11 @@
         <field name="Description"/>
       </fields>
       <libsource lib="2025-12-06_19-11-20" part="UC2843AQD8R" description=""/>
-      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
       <property name="ki_keywords" value="UC2843AQD8R"/>
       <property name="ki_fp_filters" value="D0008A_N D0008A_M D0008A_L"/>
-      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>4db0741e-e596-460c-9e22-738fa3d93b28</tstamps>
     </comp>
   </components>
@@ -1052,72 +1034,75 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+      <uri>/github/workspace/lib/lib_sym/Connector.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+      <uri>/github/workspace/lib/lib_sym/Device.kicad_sym</uri>
     </library>
     <library logical="Transistor_BJT">
-      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+      <uri>/github/workspace/lib/lib_sym/Transistor_BJT.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
-      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
+      <uri>/github/workspace/lib/lib_sym/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="personal">
+      <uri>/github/workspace/lib/lib_sym/personal.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="/Project Architecture/Section A - Title A/B" class="Default">
+    <net code="1" name="/Project Architecture/Schematic/B" class="Default">
       <node ref="Q3" pin="2" pinfunction="B" pintype="input"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="2" name="/Project Architecture/Section A - Title A/Comp" class="Default">
+    <net code="2" name="/Project Architecture/Schematic/Comp" class="Default">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="COMP" pintype="output"/>
     </net>
-    <net code="3" name="/Project Architecture/Section A - Title A/Emm" class="Default">
+    <net code="3" name="/Project Architecture/Schematic/Emm" class="Default">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="4" name="/Project Architecture/Section A - Title A/G" class="Default">
+    <net code="4" name="/Project Architecture/Schematic/G" class="Default">
       <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
     </net>
-    <net code="5" name="/Project Architecture/Section A - Title A/Isns" class="Default">
+    <net code="5" name="/Project Architecture/Schematic/Isns" class="Default">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="ISENSE" pintype="input"/>
     </net>
-    <net code="6" name="/Project Architecture/Section A - Title A/Out_trafo" class="Default">
+    <net code="6" name="/Project Architecture/Schematic/Out_trafo" class="Default">
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="TR2" pin="7" pintype="passive"/>
     </net>
-    <net code="7" name="/Project Architecture/Section A - Title A/RT_CT" class="Default">
+    <net code="7" name="/Project Architecture/Schematic/RT_CT" class="Default">
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="RT_CT" pintype="input"/>
     </net>
-    <net code="8" name="/Project Architecture/Section A - Title A/SW" class="Default">
+    <net code="8" name="/Project Architecture/Schematic/SW" class="Default">
       <node ref="Q4" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="TR2" pin="1" pintype="passive"/>
       <node ref="TR2" pin="2" pintype="passive"/>
     </net>
-    <net code="9" name="/Project Architecture/Section A - Title A/Src" class="Default">
+    <net code="9" name="/Project Architecture/Schematic/Src" class="Default">
       <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
     </net>
-    <net code="10" name="/Project Architecture/Section A - Title A/Vfb" class="Default">
+    <net code="10" name="/Project Architecture/Schematic/Vfb" class="Default">
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="VFB" pintype="input"/>
     </net>
-    <net code="11" name="/Project Architecture/Section A - Title A/Vin+" class="Default">
+    <net code="11" name="/Project Architecture/Schematic/Vin+" class="Default">
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -1126,17 +1111,17 @@
       <node ref="TR2" pin="5" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="VCC" pintype="power_in"/>
     </net>
-    <net code="12" name="/Project Architecture/Section A - Title A/Vin-" class="Default">
+    <net code="12" name="/Project Architecture/Schematic/Vin-" class="Default">
       <node ref="F1" pin="1" pintype="passive"/>
       <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="13" name="/Project Architecture/Section A - Title A/Vout+" class="Default">
+    <net code="13" name="/Project Architecture/Schematic/Vout+" class="Default">
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="14" name="/Project Architecture/Section A - Title A/Vref" class="Default">
+    <net code="14" name="/Project Architecture/Schematic/Vref" class="Default">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
