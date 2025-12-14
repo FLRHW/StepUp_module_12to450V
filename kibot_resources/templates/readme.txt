@@ -50,12 +50,6 @@ Contributions are welcome (e.g., corrections or improvements to the schematic or
 Please use pull requests and issues to propose changes or discuss potential improvements.
 
 
-## SPECIFICATIONS
-
-| Parameter | Value | 
-| --- | --- |
-| Dimensions | ${bb_w_mm} × ${bb_h_mm} mm |
-
 ***
 
 ## DIRECTORY STRUCTURE

@@ -68,6 +68,12 @@
       "type": "KiCad",
       "uri": "library/footprints/TerminalBlock.pretty",
       "description": "Local copy of TerminalBlock.pretty"
+    },
+    {
+      "name": "TerminalBlock_Phoenix.pretty",
+      "type": "KiCad",
+      "uri": "library/footprints/TerminalBlock_Phoenix.pretty",
+      "description": "Local copy of TerminalBlock_Phoenix.pretty"
     }
   ]
 }
