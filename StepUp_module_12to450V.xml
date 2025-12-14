@@ -39,10 +39,10 @@
 4)	SURFACE FINISH: IMMERSION GOLD
 
 5)	SOLDERMASK ON BOTH SIDES OF THE BOARD SHALL 
-	BE LPI, COLOR BLACK.
+	BE LPI, COLOR GREEN.
 
 6)	SILK SCREEN LEGEND TO BE APPLIED PER LAYER 
-	STACKUP USING YELLOW NON-CONDUCTIVE EPOXY INK.
+	STACKUP USING WHITE NON-CONDUCTIVE EPOXY INK.
 
 7)	ALL VIAS ARE TENTED ON BOTH SIDES UNLESS 
 	SOLDERMASK OPENED IN GERBER.
@@ -74,8 +74,8 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">12f9779</textvar>
-    <textvar name="GIT_HASH_SCH">0ceba30</textvar>
+    <textvar name="GIT_HASH_PCB">f6c51b0</textvar>
+    <textvar name="GIT_HASH_SCH">f6c51b0</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
@@ -126,8 +126,8 @@
     <textvar name="SHEET_NAME_39">......................................</textvar>
     <textvar name="SHEET_NAME_4">Schematic</textvar>
     <textvar name="SHEET_NAME_40">......................................</textvar>
-    <textvar name="SHEET_NAME_5">Section B - Title B</textvar>
-    <textvar name="SHEET_NAME_6">Revision History</textvar>
+    <textvar name="SHEET_NAME_5">Revision History</textvar>
+    <textvar name="SHEET_NAME_6">......................................</textvar>
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
@@ -192,7 +192,7 @@
         <company>FR</company>
         <rev>+ (Unreleased)</rev>
         <date>Date2</date>
-        <source>Section A - Title A.kicad_sch</source>
+        <source>Schematic.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -236,7 +236,7 @@
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -254,7 +254,7 @@
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -272,7 +272,7 @@
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -290,7 +290,7 @@
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -308,7 +308,7 @@
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -326,7 +326,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -344,7 +344,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -362,7 +362,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -382,7 +382,7 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -404,7 +404,7 @@
       <property name="Sim.Device" value="D"/>
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -422,7 +422,7 @@
       </fields>
       <libsource lib="Device" part="Fuse" description="Fuse"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="fuse"/>
       <property name="ki_fp_filters" value="*Fuse*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -440,7 +440,7 @@
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="screw terminal"/>
       <property name="ki_fp_filters" value="TerminalBlock*:*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -458,7 +458,7 @@
       </fields>
       <libsource lib="Transistor_FET" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>48d2c3db-208f-409a-b788-898cd7f8d105</tstamps>
@@ -475,7 +475,7 @@
       </fields>
       <libsource lib="Transistor_BJT" part="S8050" description="0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="S8050 NPN Low Voltage High Current Transistor"/>
       <property name="ki_fp_filters" value="TO?92*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -493,7 +493,7 @@
       </fields>
       <libsource lib="Transistor_FET" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>5231c459-ba8d-465a-877b-3dce4ade35cd</tstamps>
@@ -510,7 +510,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -528,7 +528,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -546,7 +546,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -564,7 +564,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -582,7 +582,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -600,7 +600,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -618,7 +618,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -636,7 +636,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -654,7 +654,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -672,7 +672,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -690,7 +690,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -708,7 +708,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -726,7 +726,7 @@
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -744,7 +744,7 @@
       </fields>
       <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
       <property name="ki_fp_filters" value="Potentiometer*"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -760,7 +760,7 @@
       </fields>
       <libsource lib="personal" part="TR_12to450V_alixp" description=""/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
       <tstamps>0eed4208-d852-4e25-b67d-5533ac0a7800</tstamps>
     </comp>
@@ -775,7 +775,7 @@
       </fields>
       <libsource lib="2025-12-06_19-11-20" part="UC2843AQD8R" description=""/>
       <property name="Sheetname" value="Schematic"/>
-      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <property name="ki_keywords" value="UC2843AQD8R"/>
       <property name="ki_fp_filters" value="D0008A_N D0008A_M D0008A_L"/>
       <sheetpath names="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
