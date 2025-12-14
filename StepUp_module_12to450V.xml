@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">0ceba30</textvar>
+    <textvar name="GIT_HASH_PCB">12f9779</textvar>
     <textvar name="GIT_HASH_SCH">0ceba30</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Alixp Step up module 12 to 450 V</textvar>
@@ -124,11 +124,11 @@
     <textvar name="SHEET_NAME_37">......................................</textvar>
     <textvar name="SHEET_NAME_38">......................................</textvar>
     <textvar name="SHEET_NAME_39">......................................</textvar>
-    <textvar name="SHEET_NAME_4">Section A - Title A</textvar>
+    <textvar name="SHEET_NAME_4">Schematic</textvar>
     <textvar name="SHEET_NAME_40">......................................</textvar>
     <textvar name="SHEET_NAME_5">Section B - Title B</textvar>
-    <textvar name="SHEET_NAME_6">Power - Sequencing</textvar>
-    <textvar name="SHEET_NAME_7">Revision History</textvar>
+    <textvar name="SHEET_NAME_6">Revision History</textvar>
+    <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
     <textvar name="VARIANT">PRELIMINARY</textvar>
@@ -175,20 +175,20 @@
         <rev>+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Project Architecture.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
-        <comment number="4" value=""/>
-        <comment number="5" value=""/>
-        <comment number="6" value=""/>
-        <comment number="7" value=""/>
-        <comment number="8" value=""/>
-        <comment number="9" value=""/>
+        <comment number="1" value="c1"/>
+        <comment number="2" value="c2"/>
+        <comment number="3" value="c3"/>
+        <comment number="4" value="c4"/>
+        <comment number="5" value="c5"/>
+        <comment number="6" value="c6"/>
+        <comment number="7" value="c7"/>
+        <comment number="8" value="c8"/>
+        <comment number="9" value="c9"/>
       </title_block>
     </sheet>
     <sheet number="4" name="/Project Architecture/Schematic/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/">
       <title_block>
-        <title>Sheet Title A</title>
+        <title>TEST TEXT</title>
         <company>FR</company>
         <rev>+ (Unreleased)</rev>
         <date>Date2</date>
@@ -204,25 +204,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="5" name="/Project Architecture/Section B - Title B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/e744f3ce-03a6-44a6-8792-1447ef232b9a/">
-      <title_block>
-        <title>Sheet Title B</title>
-        <company>FR</company>
-        <rev>+ (Unreleased)</rev>
-        <date>Date2</date>
-        <source>Section B - TItle B.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
-        <comment number="4" value=""/>
-        <comment number="5" value=""/>
-        <comment number="6" value=""/>
-        <comment number="7" value=""/>
-        <comment number="8" value=""/>
-        <comment number="9" value=""/>
-      </title_block>
-    </sheet>
-    <sheet number="6" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
+    <sheet number="5" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
       <title_block>
         <title>Revision History</title>
         <company>FR</company>
