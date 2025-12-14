@@ -65,7 +65,7 @@
 	TRACE WIDTH			1.000 mm
 	TRACE TO TRACE		0.200 mm
 	MIN. HOLE (PTH)			0.800 mm
-	MIN. HOLE (NPTH)		N/A mm
+	MIN. HOLE (NPTH)		2.100 mm
 	ANNULAR RING			0.320 mm
 	COPPER TO HOLE		0.254 mm
 	COPPER TO EDGE		0.250 mm
@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">95cd2d0</textvar>
+    <textvar name="GIT_HASH_PCB">3d52a43</textvar>
     <textvar name="GIT_HASH_SCH">95cd2d0</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
@@ -113,7 +113,7 @@
     <textvar name="SHEET_NAME_27">......................................</textvar>
     <textvar name="SHEET_NAME_28">......................................</textvar>
     <textvar name="SHEET_NAME_29">......................................</textvar>
-    <textvar name="SHEET_NAME_3">Project Architecture</textvar>
+    <textvar name="SHEET_NAME_3">Schematic</textvar>
     <textvar name="SHEET_NAME_30">......................................</textvar>
     <textvar name="SHEET_NAME_31">......................................</textvar>
     <textvar name="SHEET_NAME_32">......................................</textvar>
@@ -124,9 +124,9 @@
     <textvar name="SHEET_NAME_37">......................................</textvar>
     <textvar name="SHEET_NAME_38">......................................</textvar>
     <textvar name="SHEET_NAME_39">......................................</textvar>
-    <textvar name="SHEET_NAME_4">Schematic</textvar>
+    <textvar name="SHEET_NAME_4">Revision History</textvar>
     <textvar name="SHEET_NAME_40">......................................</textvar>
-    <textvar name="SHEET_NAME_5">Revision History</textvar>
+    <textvar name="SHEET_NAME_5">......................................</textvar>
     <textvar name="SHEET_NAME_6">......................................</textvar>
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
@@ -298,11 +298,11 @@
     </comp>
     <comp ref="C6">
       <value>100u</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <footprint>Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm</footprint>
       <datasheet>~</datasheet>
       <description>Polarized capacitor</description>
       <fields>
-        <field name="Footprint">Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</field>
+        <field name="Footprint">Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm</field>
         <field name="Datasheet">~</field>
         <field name="Description">Polarized capacitor</field>
       </fields>
@@ -316,11 +316,11 @@
     </comp>
     <comp ref="C7">
       <value>1000u</value>
-      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <description>Polarized capacitor</description>
       <fields>
-        <field name="Footprint">Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</field>
+        <field name="Footprint">Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm</field>
         <field name="Datasheet">~</field>
         <field name="Description">Polarized capacitor</field>
       </fields>
@@ -334,11 +334,11 @@
     </comp>
     <comp ref="C8">
       <value>10u</value>
-      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <description>Polarized capacitor</description>
       <fields>
-        <field name="Footprint">Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</field>
+        <field name="Footprint">Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm</field>
         <field name="Datasheet">~</field>
         <field name="Description">Polarized capacitor</field>
       </fields>
@@ -349,6 +349,52 @@
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
       <tstamps>95416784-e858-486b-b7f9-b922d234a123</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>?</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>3a88e984-8e73-4824-92b8-c135b4da05fa</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>?</value>
+      <footprint>Diode_THT:D_A-405_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <description>Diode</description>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Notes">Markings are not readable on the part</field>
+        <field name="Footprint">Diode_THT:D_A-405_P7.62mm_Horizontal</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Diode</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Notes" value="Markings are not readable on the part"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>82fe17ba-d6e6-4470-8750-1532797057fa</tstamps>
     </comp>
     <comp ref="D3">
       <value>LED</value>
@@ -371,7 +417,7 @@
       <tstamps>3ae366b9-7687-4457-941d-7be73be2bad8</tstamps>
     </comp>
     <comp ref="D4">
-      <value>D</value>
+      <value>?</value>
       <footprint>Diode_THT:D_A-405_P10.16mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <description>Diode</description>
@@ -411,6 +457,82 @@
       <property name="ki_fp_filters" value="*Fuse*"/>
       <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
       <tstamps>9a47ac71-c63d-4430-b57b-0a61627a3a92</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Mounting Hole without connection</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.1mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>58fa05f5-9776-45f8-8b6c-6d7f44428da2</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Mounting Hole without connection</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.1mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>79dfb53a-707a-4148-aa60-fc72bd89333b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Mounting Hole without connection</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.1mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>ff26e46b-d4ec-4f68-933d-0216b3901d5c</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Mounting Hole without connection</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.1mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Schematic"/>
+      <property name="Sheetfile" value="Schematic.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
+      <tstamps>6a4c4f2d-b06b-4a2b-9b91-76f4855fa11f</tstamps>
     </comp>
     <comp ref="J1">
       <value>Screw_Terminal_01x04</value>
@@ -731,21 +853,18 @@
       <tstamps>0eed4208-d852-4e25-b67d-5533ac0a7800</tstamps>
     </comp>
     <comp ref="U1">
-      <value>UC2843AQD8R</value>
+      <value>UC2843A</value>
       <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
-      <datasheet>https://www.ti.com/lit/gpn/uc2843aq</datasheet>
       <fields>
         <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
-        <field name="Datasheet">https://www.ti.com/lit/gpn/uc2843aq</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
-      <libsource lib="2025-12-06_19-11-20" part="UC2843AQD8R" description=""/>
+      <libsource lib="personal" part="UC2843AQD8R" description=""/>
       <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Schematic.kicad_sch"/>
-      <property name="ki_keywords" value="UC2843AQD8R"/>
-      <property name="ki_fp_filters" value="D0008A_N D0008A_M D0008A_L"/>
       <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
-      <tstamps>4db0741e-e596-460c-9e22-738fa3d93b28</tstamps>
+      <tstamps>62271add-a1bc-478c-a176-79cf1b6a5b39</tstamps>
     </comp>
     <comp ref="VR1">
       <value>5k</value>
@@ -767,31 +886,6 @@
     </comp>
   </components>
   <libparts>
-    <libpart lib="2025-12-06_19-11-20" part="UC2843AQD8R">
-      <docs>https://www.ti.com/lit/gpn/uc2843aq</docs>
-      <footprints>
-        <fp>D0008A_N</fp>
-        <fp>D0008A_M</fp>
-        <fp>D0008A_L</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">UC2843AQD8R</field>
-        <field name="Footprint">D0008A_N</field>
-        <field name="Datasheet">https://www.ti.com/lit/gpn/uc2843aq</field>
-        <field name="Description"/>
-      </fields>
-      <pins>
-        <pin num="1" name="COMP" type="output"/>
-        <pin num="2" name="VFB" type="input"/>
-        <pin num="3" name="ISENSE" type="input"/>
-        <pin num="4" name="RT_CT" type="input"/>
-        <pin num="5" name="GND" type="power_in"/>
-        <pin num="6" name="OUTPUT" type="output"/>
-        <pin num="7" name="VCC" type="power_in"/>
-        <pin num="8" name="VREF" type="power_in"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector" part="Screw_Terminal_01x04">
       <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <docs>~</docs>
@@ -947,6 +1041,20 @@
         <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
     <libpart lib="Transistor_BJT" part="S8050">
       <description>0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92</description>
       <docs>http://www.unisonic.com.tw/datasheet/S8050.pdf</docs>
@@ -997,22 +1105,41 @@
         <pin num="7" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="personal" part="UC2843AQD8R">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">UC2843A</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="COMP" type="output"/>
+        <pin num="2" name="VFB" type="input"/>
+        <pin num="3" name="ISENSE" type="input"/>
+        <pin num="4" name="RT_CT" type="input"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="OUTPUT" type="output"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="VREF" type="power_out"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri/>
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri/>
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
     </library>
     <library logical="Transistor_BJT">
-      <uri/>
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
-      <uri/>
-    </library>
-    <library logical="personal">
-      <uri/>
+      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1034,6 +1161,7 @@
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
     <net code="4" name="/Block Diagram/Schematic/G" class="Default">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
@@ -1044,6 +1172,7 @@
       <node ref="U1" pin="3" pinfunction="ISENSE" pintype="input"/>
     </net>
     <net code="6" name="/Block Diagram/Schematic/Out_trafo" class="Default">
+      <node ref="C9" pin="1" pintype="passive"/>
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="TR1" pin="7" pintype="passive"/>
     </net>
@@ -1083,6 +1212,7 @@
     </net>
     <net code="13" name="/Block Diagram/Schematic/Vout+" class="Default">
       <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
@@ -1091,7 +1221,7 @@
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="VREF" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VREF" pintype="power_out"/>
     </net>
     <net code="15" name="GND" class="Default">
       <node ref="C3" pin="2" pintype="passive"/>
@@ -1108,29 +1238,30 @@
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(Q2-D)" class="Default">
+    <net code="16" name="Net-(D2-K)" class="Default">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OUTPUT" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(Q2-D)" class="Default">
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(Q2-G)" class="Default">
+    <net code="18" name="Net-(Q2-G)" class="Default">
       <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(R4-Pad1)" class="Default">
+    <net code="19" name="Net-(R4-Pad1)" class="Default">
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="VR1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="VR1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(R10-Pad1)" class="Default">
+    <net code="20" name="Net-(R10-Pad1)" class="Default">
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
-    </net>
-    <net code="20" name="Net-(U1-OUTPUT)" class="Default">
-      <node ref="R8" pin="1" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="OUTPUT" pintype="output"/>
     </net>
   </nets>
 </export>
