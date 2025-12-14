@@ -8,6 +8,7 @@
 		(date "2025-01-12")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
+		(comment 9 "NA")
 	)
 	(lib_symbols)
 	(text "Variant: ${VARIANT}"
@@ -1771,7 +1772,7 @@
 		(instances
 			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
@@ -1817,51 +1818,6 @@
 			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 299.72 313.69)
-		(size 35.56 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c5103ceb-5325-4a84-a025-9638a412984e")
-		(property "Sheetname" "Project Architecture"
-			(at 299.72 312.6609 0)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 1.905 1.905)
-					(bold yes)
-					(color 0 0 0 1)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Project Architecture.kicad_sch"
-			(at 300.99 314.96 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "StepUp_module_12to450V"
-				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c"
-					(page "3")
 				)
 			)
 		)
