@@ -8,10 +8,12 @@
 
 1)	DO NOT POPULATE PARTS MARKED WITH A RED CROSS.
 
-2)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY
+2)	THE BOM DOES NOT CONTAIN PARTS MARKED WITH A RED CROSS.
+
+3)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY
 	FILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.
 
-3)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION
+4)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION
 	WHEN VIEWED FROM THE TOP.</textvar>
     <textvar name="BOARD_NAME">Module</textvar>
     <textvar name="COMPANY">FR</textvar>
@@ -24,13 +26,13 @@
 	"Edge_Cuts.GBR" SUFFIX.
 
 	DIMENSIONS OF CIRCUMSIZED RECTANGLE SHOWN ON THIS
-	DRAWING ARE FOR REFERENCE ONLY.
+	DRAWING FOR REFERENCE ONLY.
 
 3)	SEE SEPARATE DRILL FILES WITH ".DRL" SUFFIX 
 	FOR HOLE LOCATIONS.
 
 	SELECTED HOLE LOCATIONS SHOWN ON THIS DRAWING 
-	ARE FOR REFERENCE ONLY.
+	FOR REFERENCE ONLY.
 
 4)	SURFACE FINISH: IMMERSION GOLD
 
@@ -70,8 +72,8 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">917e012</textvar>
-    <textvar name="GIT_HASH_SCH">917e012</textvar>
+    <textvar name="GIT_HASH_PCB">357a42b</textvar>
+    <textvar name="GIT_HASH_SCH">95cd2d0</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
@@ -79,8 +81,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">15-Dec-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-12-15</textvar>
+    <textvar name="RELEASE_DATE">14-Dec-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-12-14</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
@@ -127,7 +129,7 @@
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">CHECKED</textvar>
+    <textvar name="VARIANT">PRELIMINARY</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>

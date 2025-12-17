@@ -4,7 +4,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C3","3,3n","C_Rect_L7.0mm_W2.0mm_P5.00mm",61.2950,16.0700,90.0000,top
 "C4","10n","C_Rect_L7.0mm_W2.0mm_P5.00mm",54.9450,29.4050,90.0000,top
 "C5","10n","C_Rect_L7.0mm_W2.0mm_P5.00mm",52.4050,29.3650,90.0000,top
-"C6","100u","C_Radial_D8.0mm_H11.5mm_P3.50mm",35.7000,33.1500,0.0000,top
+"C6","100u","C_Radial_D8.0mm_H11.5mm_P3.50mm",36.1473,33.1750,0.0000,top
 "C7","1000u","C_Radial_D10.0mm_H20.0mm_P5.00mm",66.0695,25.0923,90.0000,top
 "C8","10u","C_Radial_D10.0mm_H16.0mm_P5.00mm",105.2823,15.3950,0.0000,top
 "D3","LED","LED_D3.0mm",37.1650,17.9350,0.0000,top
