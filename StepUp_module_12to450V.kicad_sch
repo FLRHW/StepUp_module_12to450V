@@ -197,6 +197,16 @@
 		)
 		(uuid "5135dbd7-df4e-46cd-8739-492cd009b1f6")
 	)
+	(text "a"
+		(exclude_from_sim no)
+		(at 149.86 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "58aba529-6fb4-45da-a900-63cce869eee4")
+	)
 	(text "${SHEET_NAME_6}"
 		(exclude_from_sim no)
 		(at 45.72 121.92 0)
