@@ -10,6 +10,7 @@ _autosave-*
 *.kicad_sch-bak
 *.kicad_pro-bak
 *.kicad_pcb-bak
+*.kicad_prl-bak
 
 # ---------------------------
 # KiCad caches / temp
