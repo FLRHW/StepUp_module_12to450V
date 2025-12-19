@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "/tmp/tmp-kibot-net_sch_print-x03ahvuo/StepUp_module_12to450V.kicad_sch")
+    (source "/tmp/tmp-kibot-net_sch_print-fya1z5g6/StepUp_module_12to450V.kicad_sch")
     (date "Date")
     (tool "Eeschema 9.0.6+1")
     (textvar (name "ASSEMBLY_NOTES") "ASSEMBLY NOTES (UNLESS OTHERWISE SPECIFIED)\n\n1)	DO NOT POPULATE PARTS MARKED WITH A RED CROSS.\n\n2)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY\n	FILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.\n\n3)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION\n	WHEN VIEWED FROM THE TOP.")
@@ -19,7 +19,7 @@
     (textvar (name "RELEASE_BODY_UNRELEASED") "Version Unreleased not found.")
     (textvar (name "RELEASE_DATE") "19-Dec-2025")
     (textvar (name "RELEASE_DATE_NUM") "2025-12-19")
-    (textvar (name "RELEASE_TITLE_1.0.0"))
+    (textvar (name "RELEASE_TITLE_1.0.0") "v1.0.0 - InRel")
     (textvar (name "RELEASE_TITLE_1.0.1"))
     (textvar (name "RELEASE_TITLE_1.0.2"))
     (textvar (name "RELEASE_TITLE_1.1.0"))
