@@ -466,16 +466,6 @@
 		)
 		(uuid "e26ac9c4-c495-4cb1-ac42-54859d23390e")
 	)
-	(text "Randomsone"
-		(exclude_from_sim no)
-		(at 135.89 27.94 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-			)
-		)
-		(uuid "e681fd7c-13de-4482-9dab-22541c0f16de")
-	)
 	(text "6"
 		(exclude_from_sim no)
 		(at 35.56 121.92 0)
