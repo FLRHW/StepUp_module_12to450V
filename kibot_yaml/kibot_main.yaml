@@ -565,6 +565,9 @@ definitions:
 
   LOGO: 'Logos/module.png'
   GIT_URL: 'https://github.com/FLRHW/StepUp_module_12to450V'
+  
+  #GIT URL: 'https://github.com/FLRHW/KDT_Hierarchical_KiBot'
+  #GIT_URL: 'https://github.com/nguyen-v/KDT_Hierarchical_KiBot'
 
   # Preflight ==================================================================
 
