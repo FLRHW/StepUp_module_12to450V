@@ -1,18 +1,12 @@
 # Changelog
 
-## [Unreleased] - 2025-12-15
-
-### EMPTY TEST
-- nononon
-- blabla 
+## [Unreleased]
 
 ## [1.1.0] - 2025-12-16
 
 ### EMPTY3
 
 ## [1.0.2] - 2025-12-17
-
-### EMPTY2
 
 ## [1.0.1] - 2025-12-18
 
