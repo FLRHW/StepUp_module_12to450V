@@ -1,6 +1,6 @@
 # Changelog
 
-## [v1.0.0]
+## [1.0.0]
 Initial StepUp_module_12to450V release
 ### Added
 - Schematics
