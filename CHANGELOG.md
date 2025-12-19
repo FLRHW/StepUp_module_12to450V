@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.0]
+Initial StepUp_module_12to450V release
+### Added
+- Schematics
+- PCB layout
+
 ## [Unreleased]
 
 ### Fixed
@@ -9,16 +15,3 @@
 ### Added
 
 -   First issue
-
-## [1.0.0]
-
-### Added
-
--   First issue
-
-## [v1.0.0]
-
-### Added
-
--   Friiisst issue
-
