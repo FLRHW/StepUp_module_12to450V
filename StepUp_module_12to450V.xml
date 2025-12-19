@@ -70,7 +70,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">bec898d</textvar>
+    <textvar name="GIT_HASH_PCB">ad6fcfe</textvar>
     <textvar name="GIT_HASH_SCH">00f0a22</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
@@ -1116,7 +1116,7 @@
         <pin num="4" name="RT_CT" type="input"/>
         <pin num="5" name="GND" type="passive"/>
         <pin num="6" name="OUTPUT" type="output"/>
-        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="7" name="VCC" type="passive"/>
         <pin num="8" name="VREF" type="power_out"/>
       </pins>
     </libpart>
@@ -1200,7 +1200,7 @@
       <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="TR1" pin="5" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VCC" pintype="passive"/>
     </net>
     <net code="12" name="/Block Diagram/Schematic/Vin-" class="Default">
       <node ref="F1" pin="1" pintype="passive"/>
