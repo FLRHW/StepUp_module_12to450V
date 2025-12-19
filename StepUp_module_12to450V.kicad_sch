@@ -197,7 +197,7 @@
 		)
 		(uuid "5135dbd7-df4e-46cd-8739-492cd009b1f6")
 	)
-	(text "."
+	(text ".."
 		(exclude_from_sim no)
 		(at 381 304.8 0)
 		(effects
