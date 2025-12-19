@@ -41,20 +41,20 @@ preflight:
     - variable: '@RELEASE_BODY_VAR@1.0.0'
       command: '@GET_BODY_CMD@ 1.0.0'
     
-    - variable: '@RELEASE_TITLE_VAR@1.0.1'
-      command: '@GET_TITLE_CMD@ 1.0.1'
-    - variable: '@RELEASE_BODY_VAR@1.0.1'
-      command: '@GET_BODY_CMD@ 1.0.1'
-
-    - variable: '@RELEASE_TITLE_VAR@1.0.2'
-      command: '@GET_TITLE_CMD@ 1.0.2'
-    - variable: '@RELEASE_BODY_VAR@1.0.2'
-      command: '@GET_BODY_CMD@ 1.0.2'
-
-    - variable: '@RELEASE_TITLE_VAR@1.1.0'
-      command: '@GET_TITLE_CMD@ 1.1.0'
-    - variable: '@RELEASE_BODY_VAR@1.1.0'
-      command: '@GET_BODY_CMD@ 1.1.0'
+    # - variable: '@RELEASE_TITLE_VAR@1.0.1'
+      # command: '@GET_TITLE_CMD@ 1.0.1'
+    # - variable: '@RELEASE_BODY_VAR@1.0.1'
+      # command: '@GET_BODY_CMD@ 1.0.1'
+ 
+    # - variable: '@RELEASE_TITLE_VAR@1.0.2'
+      # command: '@GET_TITLE_CMD@ 1.0.2'
+    # - variable: '@RELEASE_BODY_VAR@1.0.2'
+      # command: '@GET_BODY_CMD@ 1.0.2'
+ 
+    # - variable: '@RELEASE_TITLE_VAR@1.1.0'
+      # command: '@GET_TITLE_CMD@ 1.1.0'
+    # - variable: '@RELEASE_BODY_VAR@1.1.0'
+      # command: '@GET_BODY_CMD@ 1.1.0'
 
     # - variable: '@RELEASE_TITLE_VAR@1.1.1'
     #   command: '@GET_TITLE_CMD@ 1.1.1'
@@ -70,7 +70,6 @@ preflight:
     - variable: 'FABRICATION_NOTES'
       expand_in_command: true
       command: '[ -f "@FABRICATION_DIR@/%f-fabrication_notes%v.txt" ] && cat "@FABRICATION_DIR@/%f-fabrication_notes%v.txt" || echo ""'
-
 
     # Fabrication notes
     - variable: 'ASSEMBLY_NOTES'

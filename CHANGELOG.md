@@ -2,28 +2,15 @@
 
 ## [Unreleased]
 
-## [1.1.0] - 2025-12-16
+## [1.1.0] - 2026-
 
-### EMPTY3
+## [1.0.2] - 2026-
 
-## [1.0.2] - 2025-12-17
-
-## [1.0.1] - 2025-12-18
-
-### EMPTY1
-
-- Nada
-- Nic
+## [1.0.1] - 2026-
 
 ## [1.0.0] - 2025-12-19
 
 ### First issue
 
--   Schematic
--   PCB layout
+Schematic capture complete, except for parts which are not populated (D2, C9), with unreadable markings (F1, D4) or otherwise difficult to determine the original specification (R9, too low resistance to measure with a regular multimeter) 
 
-[Unreleased]: https://github.com/nguyen-v/amulet_controller_kibot/compare/1.1.1...HEAD
-
-[1.1.1]: https://github.com/nguyen-v/amulet_controller_kibot/compare/1.1.1...1.1.1
-
-[1.1.1]: https://github.com/nguyen-v/amulet_controller_kibot/compare/75a4252278e2e99f125718f921b713f39e2bfcda...1.1.1
