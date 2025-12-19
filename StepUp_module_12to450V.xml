@@ -71,7 +71,7 @@
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
     <textvar name="GIT_HASH_PCB">ad6fcfe</textvar>
-    <textvar name="GIT_HASH_SCH">24e5711</textvar>
+    <textvar name="GIT_HASH_SCH">004e7f9</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0">Version 1.0.0 not found.</textvar>
