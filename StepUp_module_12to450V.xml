@@ -71,16 +71,14 @@
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
     <textvar name="GIT_HASH_PCB">ad6fcfe</textvar>
-    <textvar name="GIT_HASH_SCH">0c3d0d1</textvar>
+    <textvar name="GIT_HASH_SCH">84a1906</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0">___________________________________
 
 First issue
 
--   Schematic
-
--   PCB layout</textvar>
+Schematic capture complete, except for parts which are not populated (D2, C9), with unreadable markings (F1, D4) or otherwise difficult to determine the original specification (R9, too low resistance to measure with a regular multimeter)</textvar>
     <textvar name="RELEASE_BODY_1.0.1">___________________________________
 
 EMPTY1
