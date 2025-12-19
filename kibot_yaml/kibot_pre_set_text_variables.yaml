@@ -36,6 +36,9 @@ preflight:
       text: '%V'
 
     # Changelog
+    - variable: '@RELEASE_TITLE_VAR@1.0.0'
+      command: 'echo "v1.0.0 - InRel"'
+        
     # - variable: '@RELEASE_TITLE_VAR@1.0.0'
     #   command: '@GET_TITLE_CMD@ 1.0.0'
     # - variable: '@RELEASE_BODY_VAR@1.0.0'
