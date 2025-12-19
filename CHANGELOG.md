@@ -3,20 +3,25 @@
 ## [Unreleased]
 
 ### EMPTY TEST
+- nononon
+- blabla 
 
 ## [1.1.0] - Nodate
 
-### EMPTY
+### EMPTY3
 
 ## [1.0.2] - Nodate
 
-### EMPTY
+### EMPTY2
 
 ## [1.0.1] - Nodate
 
-### EMPTY
+### EMPTY1
 
-## [1.0.0] - 2023-12-12
+- Nada
+- Nic
+
+## [1.0.0] - 2025-12-19
 
 ### First issue
 
