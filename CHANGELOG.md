@@ -2,18 +2,11 @@
 
 ## [Unreleased]
 
-### Fixed
+## [1.0.0] - 2025-12-19
 
--   Fixes
+### First issue
 
-### Added
+Schematic capture complete, except for parts:
+- not populated (D2, C9);
+- with unreadable or absent markings (F1, D4, R9, TR1);
 
--   Additions
-
-### Changed
-
--   Changes
-
-### Removed
-
--   Deletions

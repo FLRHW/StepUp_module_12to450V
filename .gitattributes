@@ -1,3 +1,19 @@
+
+# CAD / 3D files
+*.step  binary
+*.stp   binary
+*.wrl   binary
+*.igs   binary
+*.iges  binary
+
+
+
+
+
+# KiCad project files – keep LF, no warnings
+
+*.kicad_pro text eol=lf  
+ *.csv filter=bom_csv
 *.csv filter=bom_csv
 *.html filter=bom_html
 *.gbr filter=gerber

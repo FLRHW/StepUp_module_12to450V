@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Revision History")
-		(date "2025-01-12")
+		(date "2025-12-20")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
+		(comment 9 "NA")
 	)
 	(lib_symbols)
 	(text_box "${RELEASE_BODY_1.1.0}"
@@ -53,6 +54,7 @@
 				(bold yes)
 				(color 0 0 194 1)
 			)
+			(justify right)
 		)
 		(uuid "20a0a094-ac98-46df-bdac-21d5721f7697")
 	)
