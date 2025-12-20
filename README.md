@@ -22,8 +22,7 @@
 This repository contains a reverse‑engineered KiCad schematic and PCB layout from a commercial module originally purchased from AliExpress.
 
 ## Project overview
-This project documents the electrical design and PCB layout of a third‑party module by recreating them from scratch in KiCad for learning, repair, and interoperability purposes.  
-The repository does not include any original vendor design files, firmware, branding, or trademarks.
+This project documents the electrical design and PCB layout of a third‑party module by recreating them from scratch in KiCad for learning, repair, and interoperability purposes. The repository does not include any original vendor design files, firmware, branding, or trademarks.
 
 ## Origin and scope
 Original hardware: generic module purchased from AliExpress (exact vendor and listing may change over time, the following terms can help finding similar modules: "70W DC-DC 12V 24V To 200V-450V Voltage Adjustable Boost Power Converter Nixie Clock Tube Amplifier Capacitor Charging").  
@@ -34,13 +33,10 @@ Contents: KiCad schematic, PCB layout, netlists, and supporting documentation cr
 This repository is intended for:
 * Educational use and study of the circuit;
 * Repair, modification, or replacement of compatible hardware;
-* Integration into hobby or research projects, subject to any third‑party IP that may apply in your jurisdiction.  
-Users are responsible for checking any patent, copyright, or regulatory constraints that may apply to their own use.
+* Integration into hobby or research projects, subject to any third‑party IP that may apply in your jurisdiction. Users are responsible for checking any patent, copyright, or regulatory constraints that may apply to their own use.
 
 ## License
-The KiCad design files and documentation in this repository are released under the CERN Open Hardware Licence v2 – Permissive (CERN‑OHL‑P‑2.0).  
-SPDX identifier: CERN-OHL-P-2.0.  
-See the LICENSE file for the full legal text and conditions.  
+The KiCad design files and documentation in this repository are released under the CERN Open Hardware Licence v2 – Permissive (CERN‑OHL‑P‑2.0). SPDX identifier: CERN-OHL-P-2.0 See the LICENSE file for the full legal text and conditions.  
 In short and non‑legal terms, you are free to use, modify, manufacture, and distribute hardware based on these files, provided you respect attribution requirements and the terms in the license.
 
 ## Trademarks and third‑party rights
@@ -94,4 +90,3 @@ Contributions are welcome. Please use pull requests and issues to propose change
     │  └─ Testpoints      # Testpoints tables      
     │
     └─ Variants           # Outputs for assembly variants
-
