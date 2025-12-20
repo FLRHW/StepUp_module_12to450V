@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "/tmp/tmp-kibot-net_sch_print-nj8p507t/StepUp_module_12to450V.kicad_sch")
+    (source "/tmp/tmp-kibot-net_sch_print-6virn3rv/StepUp_module_12to450V.kicad_sch")
     (date "Date")
     (tool "Eeschema 9.0.6+1")
     (textvar (name "ASSEMBLY_NOTES") "ASSEMBLY NOTES (UNLESS OTHERWISE SPECIFIED)\n\n1)	DO NOT POPULATE PARTS MARKED WITH A RED CROSS.\n\n2)	IF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY\n	FILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.\n\n3)	DOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION\n	WHEN VIEWED FROM THE TOP.")
@@ -12,7 +12,7 @@
     (textvar (name "GIT_HASH_SCH") "4fc064d")
     (textvar (name "GIT_URL") "https://github.com/FLRHW/StepUp_module_12to450V")
     (textvar (name "PROJECT_NAME") "Step-up module 12:450 V")
-    (textvar (name "RELEASE_BODY_1.0.0") "___________________________________\n\nFirst issue\n\nSchematic capture complete, except for parts:\n\n- not populated (D2, C9);\n\n- with unreadable or absent markings (F1, D4, R9);\n\nBest guess:\n\n- F1: ~5 A\n\n- D4: ~500 mA x 600 V\n\n- R9: 10-100 mΩ\n\n##\n\n<!--")
+    (textvar (name "RELEASE_BODY_1.0.0") "___________________________________\n\nFirst issue\n\nSchematic capture complete, except for parts:\n\n- not populated (D2, C9);\n\n- with unreadable or absent markings (F1, D4, R9);\n\nBest guess:\n\n- F1: ~5 A\n\n- D4: ~500 mA x 600 V\n\n- R9: 10-100 mΩ")
     (textvar (name "RELEASE_BODY_1.0.1"))
     (textvar (name "RELEASE_BODY_1.0.2"))
     (textvar (name "RELEASE_BODY_1.1.0"))
