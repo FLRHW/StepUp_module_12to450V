@@ -71,7 +71,7 @@
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
     <textvar name="GIT_HASH_PCB">ad6fcfe</textvar>
-    <textvar name="GIT_HASH_SCH">4fc064d</textvar>
+    <textvar name="GIT_HASH_SCH">25e1572</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0">___________________________________
@@ -197,14 +197,14 @@ Schematic capture complete, except for parts:
         <rev>+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
-        <comment number="1" value="&quot;Comment 1&quot;"/>
-        <comment number="2" value="&quot;Comment 2&quot;"/>
-        <comment number="3" value="&quot;Comment 3&quot;"/>
-        <comment number="4" value="&quot;Comment 4&quot;"/>
-        <comment number="5" value="&quot;Comment 5&quot;"/>
-        <comment number="6" value="&quot;Comment 6&quot;"/>
-        <comment number="7" value="&quot;Comment 7&quot;"/>
-        <comment number="8" value="&quot;Comment 8&quot;"/>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
         <comment number="9" value="NA"/>
       </title_block>
     </sheet>
