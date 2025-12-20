@@ -5,7 +5,7 @@
 	(uuid "f9e05184-c88b-4a88-ae9c-ab2bdb32be7c")
 	(paper "A3")
 	(title_block
-		(date "2025-01-12")
+		(date "2025-12-20")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
 		(comment 9 "NA")
@@ -26,21 +26,6 @@
 		)
 		(uuid "000ea912-7563-47e5-be4a-8607b961f825")
 	)
-	(text "RELEASED - Design ready for manufacturing."
-		(exclude_from_sim no)
-		(at 27.94 238.125 0)
-		(effects
-			(font
-				(face "Times New Roman")
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 140 140 140 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "03a9de87-2a7c-40cc-8949-62aed018c019")
-	)
 	(text "${SHEET_NAME_5}"
 		(exclude_from_sim no)
 		(at 45.72 114.3 0)
@@ -55,21 +40,6 @@
 		)
 		(uuid "09a8b001-8e04-4cc1-8d9b-8535bd79adf1")
 	)
-	(text "PRELIMINARY - Minor schematic changes are expected, ready for layout planning."
-		(exclude_from_sim no)
-		(at 27.94 225.425 0)
-		(effects
-			(font
-				(face "Times New Roman")
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 140 140 140 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "11442418-ba27-4cbf-a7e2-cc6ed9935eb1")
-	)
 	(text "7"
 		(exclude_from_sim no)
 		(at 35.56 129.54 0)
@@ -83,21 +53,6 @@
 			(href "#7")
 		)
 		(uuid "1c576109-caea-431e-8644-8543de749b79")
-	)
-	(text "DRAFT - Early concept stage, schematic drafted."
-		(exclude_from_sim no)
-		(at 27.94 219.075 0)
-		(effects
-			(font
-				(face "Times New Roman")
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 140 140 140 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "23bcc4dd-d59d-4c05-b342-2d26db58b8da")
 	)
 	(text "${SHEET_NAME_8}"
 		(exclude_from_sim no)
@@ -184,29 +139,6 @@
 		)
 		(uuid "4b0ed47a-9b59-42f0-a2af-ecaccf5a89c3")
 	)
-	(text "Not fitted components are marked as"
-		(exclude_from_sim no)
-		(at 27.94 208.915 0)
-		(effects
-			(font
-				(face "Arial")
-				(size 3 3)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "5135dbd7-df4e-46cd-8739-492cd009b1f6")
-	)
-	(text "..."
-		(exclude_from_sim no)
-		(at 381 304.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "54d523bb-18a5-4c6e-a47d-b43665af61de")
-	)
 	(text "${SHEET_NAME_6}"
 		(exclude_from_sim no)
 		(at 45.72 121.92 0)
@@ -236,24 +168,9 @@
 		)
 		(uuid "6d1761f6-980b-4588-8313-1bd3d937c291")
 	)
-	(text "CHECKED - DRC completed, schematic and layout ready for review."
-		(exclude_from_sim no)
-		(at 27.94 231.775 0)
-		(effects
-			(font
-				(face "Times New Roman")
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 140 140 140 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "701d40a5-7fcc-4d35-a582-e3de3695524c")
-	)
 	(text "BOTTOM VIEW"
 		(exclude_from_sim no)
-		(at 278.13 69.85 0)
+		(at 278.13 85.09 0)
 		(effects
 			(font
 				(face "Arial")
@@ -351,20 +268,6 @@
 		)
 		(uuid "8cf431a6-8908-4048-b4aa-271da433a961")
 	)
-	(text "NOTES"
-		(exclude_from_sim no)
-		(at 26.67 187.96 0)
-		(effects
-			(font
-				(face "Arial")
-				(size 5 5)
-				(bold yes)
-				(color 53 60 207 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e0f503c-d18d-404c-84d2-434629c63a09")
-	)
 	(text "${SHEET_NAME_1}"
 		(exclude_from_sim no)
 		(at 45.72 83.82 0)
@@ -421,22 +324,9 @@
 		)
 		(uuid "c47fb2b3-a3ce-4ab0-8283-8dc8a58975c2")
 	)
-	(text "Comment"
-		(exclude_from_sim no)
-		(at 27.94 198.755 0)
-		(effects
-			(font
-				(face "Arial")
-				(size 3 3)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd70c2d3-2fc1-43f3-bef3-88f512b1207b")
-	)
 	(text "TOP VIEW"
 		(exclude_from_sim no)
-		(at 156.21 69.85 0)
+		(at 137.16 85.09 0)
 		(effects
 			(font
 				(face "Arial")
@@ -532,9 +422,9 @@
 		)
 		(uuid "f9755639-0775-4570-b6a2-9829625b15ba")
 	)
-	(text "DESIGN CONSIDERATIONS"
+	(text "NOTE STYLING CONVENTION"
 		(exclude_from_sim no)
-		(at 26.67 255.27 0)
+		(at 26.67 256.54 0)
 		(effects
 			(font
 				(face "Arial")
@@ -548,13 +438,13 @@
 	)
 	(text_box "DESIGN NOTE:\nExample text for cautionary design notes."
 		(exclude_from_sim no)
-		(at 96.52 258.445 0)
-		(size 30.48 20.32)
+		(at 88.9 260.35 0)
+		(size 25.4 19.05)
 		(margins 2 2 2 2)
 		(stroke
 			(width 0.508)
 			(type solid)
-			(color 250 236 0 1)
+			(color 239 214 0 1)
 		)
 		(fill
 			(type color)
@@ -572,8 +462,8 @@
 	)
 	(text_box "DESIGN NOTE:\nExample text for debug notes."
 		(exclude_from_sim no)
-		(at 61.595 258.445 0)
-		(size 30.48 20.32)
+		(at 57.15 260.35 0)
+		(size 25.4 19.05)
 		(margins 2 2 2 2)
 		(stroke
 			(width 0.508)
@@ -596,8 +486,8 @@
 	)
 	(text_box "DESIGN NOTE:\nExample text for critical design notes."
 		(exclude_from_sim no)
-		(at 131.445 258.445 0)
-		(size 30.48 20.32)
+		(at 120.65 260.35 0)
+		(size 25.4 19.05)
 		(margins 2.25 2.25 2.25 2.25)
 		(stroke
 			(width 0.508)
@@ -621,8 +511,8 @@
 	)
 	(text_box "LAYOUT NOTE:\nExample text for critical layout guidelines."
 		(exclude_from_sim no)
-		(at 166.37 258.445 0)
-		(size 30.48 20.32)
+		(at 152.4 260.35 0)
+		(size 25.4 19.05)
 		(margins 2.25 2.25 2.25 2.25)
 		(stroke
 			(width 0.508)
@@ -646,8 +536,8 @@
 	)
 	(text_box "kibot_image_png_3d_viewer_angled_bottom"
 		(exclude_from_sim no)
-		(at 273.05 69.85 0)
-		(size 101.6 114.3)
+		(at 273.05 88.9 0)
+		(size 120.65 88.9)
 		(margins 1.905 1.905 1.905 1.905)
 		(stroke
 			(width 0)
@@ -666,8 +556,8 @@
 	)
 	(text_box "DESIGN NOTE:\nExample text for informational design notes."
 		(exclude_from_sim no)
-		(at 26.67 258.445 0)
-		(size 30.48 20.32)
+		(at 25.4 260.35 0)
+		(size 25.4 19.05)
 		(margins 2 2 2 2)
 		(stroke
 			(width 0.508)
@@ -690,8 +580,8 @@
 	)
 	(text_box "kibot_image_png_3d_viewer_angled_top"
 		(exclude_from_sim no)
-		(at 152.4 69.85 0)
-		(size 107.95 114.3)
+		(at 133.35 88.9 0)
+		(size 127 88.9)
 		(margins 1.905 1.905 1.905 1.905)
 		(stroke
 			(width 0)
@@ -708,6 +598,30 @@
 		)
 		(uuid "62b01781-ae4a-4e68-9a17-1436f3c897e5")
 	)
+	(text_box "DRAFT - Early concept stage, schematic drafted.\n\nPRELIMINARY - Minor schematic changes are expected, ready for layout planning.\n\nCHECKED - DRC completed, schematic and layout ready for review.\n\nRELEASED - Design ready for manufacturing."
+		(exclude_from_sim no)
+		(at 25.4 196.85 0)
+		(size 165.1 44.45)
+		(margins 2 2 2 2)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 3.048 3.048)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "b123bb8e-472c-479d-8b0e-9f9ca1c788ad")
+	)
 	(polyline
 		(pts
 			(xy 45.72 73.66) (xy 106.68 73.66)
@@ -721,17 +635,6 @@
 	)
 	(polyline
 		(pts
-			(xy 100.33 202.565) (xy 102.87 208.915)
-		)
-		(stroke
-			(width 1)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "3799b615-bea5-4cb3-b9a2-2785865702a8")
-	)
-	(polyline
-		(pts
 			(xy 17.78 73.66) (xy 35.56 73.66)
 		)
 		(stroke
@@ -740,17 +643,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "a3703ec8-87d6-4c32-a8ca-249d86e6160c")
-	)
-	(polyline
-		(pts
-			(xy 102.87 202.565) (xy 100.33 208.915)
-		)
-		(stroke
-			(width 1)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "d1a06d73-e78a-446f-b9d8-0d5c726588d3")
 	)
 	(sheet
 		(at 340.36 302.26)

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Block Diagram")
-		(date "2025-01-12")
+		(date "2025-12-20")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
 		(comment 9 "NA")
@@ -48,7 +48,7 @@
 		)
 		(uuid "4357d0d0-a77a-415c-a474-626189306692")
 	)
-	(text "AliExpress module"
+	(text "AliExpress module example (link)"
 		(exclude_from_sim no)
 		(at 142.24 162.56 0)
 		(effects
@@ -62,7 +62,7 @@
 		)
 		(uuid "a8a57466-d20e-43d1-9753-ccb88e0859bb")
 	)
-	(text_box "MODULE INTERFACE:\nVin: 9 V to 2 V according to AliExpress product page\nVout: 200 V to 450 V, adjustable through VR1"
+	(text_box "MODULE INTERFACE:\nVin: 9 V to 24 V according to AliExpress product page\nVout: 200 V to 450 V, adjustable through VR1"
 		(exclude_from_sim no)
 		(at 63.5 88.9 0)
 		(size 38.1 20.955)
