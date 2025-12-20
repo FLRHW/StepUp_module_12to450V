@@ -82,15 +82,7 @@ Schematic capture complete, except for parts:
 
 - not populated (D2, C9);
 
-- with unreadable or absent markings (F1, D4, R9);
-
-Best guess:
-
-- F1: ~5 A
-
-- D4: ~500 mA x 600 V
-
-- R9: 10-100 mΩ</textvar>
+- with unreadable or absent markings (F1, D4, R9, TR1);</textvar>
     <textvar name="RELEASE_BODY_1.0.1"/>
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
@@ -743,7 +735,7 @@ Best guess:
       <tstamps>9553b2c5-4706-48fa-8397-16d9f89c973b</tstamps>
     </comp>
     <comp ref="R9">
-      <value>R</value>
+      <value>13.7m</value>
       <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <description>Resistor</description>
@@ -851,7 +843,7 @@ Best guess:
       <tstamps>f9d8b120-ef41-4607-a83a-7517d8eefcee</tstamps>
     </comp>
     <comp ref="TR1">
-      <value>~</value>
+      <value>?</value>
       <footprint>Personal:Tr12to450V_Alixp</footprint>
       <fields>
         <field name="Footprint">Personal:Tr12to450V_Alixp</field>
