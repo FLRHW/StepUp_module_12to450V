@@ -8,9 +8,5 @@
 
 Schematic capture complete, except for parts:
 - not populated (D2, C9);
-- with unreadable or absent markings (F1, D4, R9);
+- with unreadable or absent markings (F1, D4, R9, TR1);
 
-Best guess:
-- F1: ~5 A
-- D4: ~500 mA x 600 V
-- R9: 10-100 mΩ
