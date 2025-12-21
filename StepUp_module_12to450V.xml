@@ -74,23 +74,15 @@
     <textvar name="GIT_HASH_SCH">25e1572</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
-    <textvar name="RELEASE_BODY_1.0.0">___________________________________
-
-First issue
-
-Schematic capture complete, except for parts:
-
-- not populated (D2, C9);
-
-- with unreadable or absent markings (F1, D4, R9, TR1);</textvar>
-    <textvar name="RELEASE_BODY_1.0.1"/>
+    <textvar name="RELEASE_BODY_1.0.0">Version 1.0.0 not found.</textvar>
+    <textvar name="RELEASE_BODY_1.0.1">Version 1.0.1 not found.</textvar>
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">20-Dec-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-12-20</textvar>
-    <textvar name="RELEASE_TITLE_1.0.0">Version 1.0.0 - 2025-12-19</textvar>
-    <textvar name="RELEASE_TITLE_1.0.1"/>
+    <textvar name="RELEASE_DATE">21-Dec-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-12-21</textvar>
+    <textvar name="RELEASE_TITLE_1.0.0">Version 1.0.0 not found.</textvar>
+    <textvar name="RELEASE_TITLE_1.0.1">Version 1.0.1 not found.</textvar>
     <textvar name="RELEASE_TITLE_1.0.2"/>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
