@@ -65,7 +65,7 @@
 	(text_box "MODULE INTERFACE:\nVin: 9 V to 24 V according to AliExpress product page\nVout: 200 V to 450 V, adjustable through VR1"
 		(exclude_from_sim no)
 		(at 63.5 88.9 0)
-		(size 38.1 20.955)
+		(size 38.1 25.4)
 		(margins 2 2 2 2)
 		(stroke
 			(width 0.508)
