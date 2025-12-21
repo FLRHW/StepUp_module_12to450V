@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
-## [1.0.0] - 2025-12-19
+## [1.0.1]
+
+### Fixed changelog only
+
+## [1.0.0]
 
 ### First issue
 
