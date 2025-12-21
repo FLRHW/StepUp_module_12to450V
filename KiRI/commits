@@ -1,2 +1,4 @@
 _local_|2025-12-21|root|Local changes not committed|False|True
-9cbd478|2025-12-21|FLRHW|Merge pull request #2 from FLRHW/dev|True|True
+ab67c9b|2025-12-21|GitHub Actions|Update Outputs (release)|False|True
+dedb1b7|2025-12-21|FLRHW|Merge, accept dev changes|False|False
+dc36741|2025-12-21|FLRHW|Forcing CI|True|False

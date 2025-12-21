@@ -70,8 +70,8 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">9cbd478</textvar>
-    <textvar name="GIT_HASH_SCH">9cbd478</textvar>
+    <textvar name="GIT_HASH_PCB">ab67c9b</textvar>
+    <textvar name="GIT_HASH_SCH">25e1572</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0">___________________________________
@@ -96,7 +96,7 @@ CI failed on release - do not use.</textvar>
     <textvar name="RELEASE_TITLE_1.0.2"/>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="REVISION">1.0.1</textvar>
+    <textvar name="REVISION">1.0.1+ (Unreleased)</textvar>
     <textvar name="SHEET_NAME_1">Cover Page</textvar>
     <textvar name="SHEET_NAME_10">......................................</textvar>
     <textvar name="SHEET_NAME_11">......................................</textvar>
@@ -137,12 +137,12 @@ CI failed on release - do not use.</textvar>
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">RELEASED</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>StepUp_module_12to450V.kicad_sch</source>
         <comment number="1" value=""/>
@@ -160,7 +160,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Block Diagram</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Block Diagram.kicad_sch</source>
         <comment number="1" value=""/>
@@ -178,7 +178,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Schematic</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Schematic.kicad_sch</source>
         <comment number="1" value=""/>
@@ -196,7 +196,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Revision History</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
         <comment number="1" value=""/>
