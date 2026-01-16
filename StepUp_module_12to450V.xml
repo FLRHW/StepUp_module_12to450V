@@ -70,33 +70,23 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">9cbd478</textvar>
-    <textvar name="GIT_HASH_SCH">9cbd478</textvar>
+    <textvar name="GIT_HASH_PCB">dc2fe46</textvar>
+    <textvar name="GIT_HASH_SCH">25e1572</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
-    <textvar name="RELEASE_BODY_1.0.0">___________________________________
-
-First issue
-
-Schematic capture complete, except for parts:
-
--   not populated (D2, C9);
-
--   with unreadable or absent markings (F1, D4, R9, TR1).
-
-CI failed on release - do not use.</textvar>
+    <textvar name="RELEASE_BODY_1.0.0"/>
     <textvar name="RELEASE_BODY_1.0.1"/>
-    <textvar name="RELEASE_BODY_1.0.2"/>
+    <textvar name="RELEASE_BODY_1.0.2">Version 1.0.2 not found.</textvar>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">21-Dec-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-12-21</textvar>
+    <textvar name="RELEASE_DATE">16-Jan-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-01-16</textvar>
     <textvar name="RELEASE_TITLE_1.0.0">Version 1.0.0 - 2025-12-19</textvar>
     <textvar name="RELEASE_TITLE_1.0.1">Version 1.0.1 - 2025-12-21</textvar>
-    <textvar name="RELEASE_TITLE_1.0.2"/>
+    <textvar name="RELEASE_TITLE_1.0.2">Version 1.0.2 not found.</textvar>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="REVISION">1.0.1</textvar>
+    <textvar name="REVISION">1.0.1+ (Unreleased)</textvar>
     <textvar name="SHEET_NAME_1">Cover Page</textvar>
     <textvar name="SHEET_NAME_10">......................................</textvar>
     <textvar name="SHEET_NAME_11">......................................</textvar>
@@ -137,12 +127,12 @@ CI failed on release - do not use.</textvar>
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">RELEASED</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>StepUp_module_12to450V.kicad_sch</source>
         <comment number="1" value=""/>
@@ -160,7 +150,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Block Diagram</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Block Diagram.kicad_sch</source>
         <comment number="1" value=""/>
@@ -178,7 +168,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Schematic</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Schematic.kicad_sch</source>
         <comment number="1" value=""/>
@@ -196,7 +186,7 @@ CI failed on release - do not use.</textvar>
       <title_block>
         <title>Revision History</title>
         <company>FR</company>
-        <rev>1.0.1</rev>
+        <rev>1.0.1+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
         <comment number="1" value=""/>
@@ -859,18 +849,18 @@ CI failed on release - do not use.</textvar>
       <tstamps>0eed4208-d852-4e25-b67d-5533ac0a7800</tstamps>
     </comp>
     <comp ref="U1">
-      <value>UC2843A</value>
+      <value>UC3845</value>
       <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <fields>
         <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
-      <libsource lib="personal" part="UC2843AQD8R" description=""/>
+      <libsource lib="personal" part="UC3845" description=""/>
       <property name="Sheetname" value="Schematic"/>
       <property name="Sheetfile" value="Schematic.kicad_sch"/>
       <sheetpath names="/Block Diagram/Schematic/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b/"/>
-      <tstamps>62271add-a1bc-478c-a176-79cf1b6a5b39</tstamps>
+      <tstamps>a70e066a-cef0-4c96-8ce1-7dfc832c3eaf</tstamps>
     </comp>
     <comp ref="VR1">
       <value>5k</value>
@@ -1111,10 +1101,10 @@ CI failed on release - do not use.</textvar>
         <pin num="7" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="personal" part="UC2843AQD8R">
+    <libpart lib="personal" part="UC3845">
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">UC2843A</field>
+        <field name="Value">UC3845</field>
         <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
         <field name="Datasheet"/>
         <field name="Description"/>

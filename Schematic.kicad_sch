@@ -2260,7 +2260,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "personal:UC2843AQD8R"
+		(symbol "personal:UC3845"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2273,7 +2273,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "UC2843A"
+			(property "Value" "UC3845"
 				(at -12.7 19.05 0)
 				(effects
 					(font
@@ -2309,57 +2309,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "UC2843AQD8R_0_1"
-				(polyline
-					(pts
-						(xy -12.7 17.78) (xy -12.7 -17.78)
-					)
+			(symbol "UC3845_1_1"
+				(rectangle
+					(start -12.7 17.78)
+					(end 12.7 -17.78)
 					(stroke
-						(width 0.2032)
-						(type default)
+						(width 0.254)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-				(polyline
-					(pts
-						(xy -12.7 -17.78) (xy 12.7 -17.78)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 17.78) (xy -12.7 17.78)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -17.78) (xy 12.7 17.78)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "UC2843AQD8R_1_1"
 				(pin power_out line
 					(at -15.24 15.24 0)
 					(length 2.54)
@@ -2745,10 +2706,10 @@
 		)
 		(uuid "b2c13488-4f2f-433b-bdc6-d210d1646aca")
 	)
-	(text_box "Estimated specs for unidentified / custom parts:\n- F1: ~5 A\n- D4: ~500 mA x 600 V\n- R9: ~13.7 mΩ (110 mV @ 8.04 A)\n- TR1: ~24:1 turns ratio, 10 μH : 5.76 mH"
+	(text_box "Estimated specs for unidentified / custom parts:\n- F1: ~5 A\n- D4: ~500 mA x 600 V\n- R9: ~13.7 mΩ (110 mV @ 8.04 A)\n- TR1: ~1 : 19 turns ratio, 3.54 μH : 1.45 mH\n\nSee \"Supporting Docs\\Measurements.xlsx\" for details"
 		(exclude_from_sim no)
-		(at 190.5 120.65 0)
-		(size 63.5 25.4)
+		(at 190.5 118.11 0)
+		(size 63.5 31.115)
 		(margins 2 2 2 2)
 		(stroke
 			(width 0.508)
@@ -5193,94 +5154,6 @@
 		)
 	)
 	(symbol
-		(lib_id "personal:UC2843AQD8R")
-		(at 182.88 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62271add-a1bc-478c-a176-79cf1b6a5b39")
-		(property "Reference" "U1"
-			(at 185.0233 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "UC2843A"
-			(at 185.0233 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 198.12 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "e14046af-5475-4b01-b5e0-728f250d0177")
-		)
-		(pin "8"
-			(uuid "1b4bb43a-3419-4c47-9be7-b8ee942ac408")
-		)
-		(pin "1"
-			(uuid "8decee09-7f52-4c6b-9ee9-15f2e01174e3")
-		)
-		(pin "2"
-			(uuid "bf3609d9-3853-474f-8eb1-9b18131d2d4d")
-		)
-		(pin "4"
-			(uuid "a2304b1d-0d8e-40dd-9c92-6c5e0985209c")
-		)
-		(pin "7"
-			(uuid "7d0cf938-670e-4699-9d32-18b18cfcaa77")
-		)
-		(pin "3"
-			(uuid "424b74d8-0a0e-420a-9917-8063f6fd6571")
-		)
-		(pin "6"
-			(uuid "d4b662fb-9222-4685-8a41-484bed51c70e")
-		)
-		(instances
-			(project ""
-				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 31.75 146.05 0)
 		(unit 1)
@@ -6591,6 +6464,94 @@
 			(project "StepUp_module_12to450V"
 				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "personal:UC3845")
+		(at 182.88 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a70e066a-cef0-4c96-8ce1-7dfc832c3eaf")
+		(property "Reference" "U1"
+			(at 185.0233 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "UC3845"
+			(at 185.0233 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+			(at 198.12 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "7474dc6e-cfb1-4c65-b410-487fdc4f5c82")
+		)
+		(pin "8"
+			(uuid "4b39297b-181e-4356-8a42-759ad626233e")
+		)
+		(pin "7"
+			(uuid "f21cb83c-f6a0-4247-813b-c9a367a20a2b")
+		)
+		(pin "6"
+			(uuid "725e34b9-181d-4c1a-9aae-1be4f5ba7ccf")
+		)
+		(pin "2"
+			(uuid "62e40b3e-3455-4864-8227-8c3de4697d3d")
+		)
+		(pin "5"
+			(uuid "cdaf4595-45c5-4d0a-9f9f-1f96c46bd092")
+		)
+		(pin "3"
+			(uuid "9e1f568d-1cb1-4e0d-8832-a63f8bb8bebf")
+		)
+		(pin "1"
+			(uuid "c16489c2-76b3-4561-a576-3d1aee403489")
+		)
+		(instances
+			(project ""
+				(path "/f9e05184-c88b-4a88-ae9c-ab2bdb32be7c/82da9dbf-ba38-4d08-ba35-a220fa2963b1/b0fdce11-0fa7-4399-9147-4b60eb490e1b"
+					(reference "U1")
 					(unit 1)
 				)
 			)

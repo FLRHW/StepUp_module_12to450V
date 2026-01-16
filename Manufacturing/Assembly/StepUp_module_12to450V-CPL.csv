@@ -21,12 +21,12 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R6","150","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",58.7550,28.7300,90.0000,top
 "R7","5,1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",49.2300,36.9850,-90.0000,top
 "R8","20","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",46.0550,29.3650,90.0000,top
-"R9","R","R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal",56.8500,42.0650,180.0000,top
+"R9","13.7m","R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal",56.8500,42.0650,180.0000,top
 "R10","140k","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",79.7093,9.5827,0.0000,top
 "R11","140k","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",64.1899,9.5827,0.0000,top
 "R12","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",40.9750,20.4750,90.0000,top
 "R13","5,1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",62.5650,41.4300,-90.0000,top
 "R14","100","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",46.6900,45.8750,180.0000,top
-"TR1","~","Tr12to450V_Alixp",86.8220,26.4440,-90.0000,top
-"U1","UC2843A","DIP-8_W7.62mm",47.0195,15.9123,90.0000,top
+"TR1","?","Tr12to450V_Alixp",86.8220,26.4440,-90.0000,top
+"U1","UC3845","DIP-8_W7.62mm",47.2892,16.1114,90.0000,top
 "VR1","5k","Potentiometer_Bourns_3296W_Vertical",60.6600,11.5900,0.0000,top
