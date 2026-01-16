@@ -15,8 +15,6 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
 
 ## [1.0.1] - 2025-12-21
 
-## [1.0.1]
-
 ### Changed
 
 Changelog updates only - issue with missing changelog on revision 1.0.0
