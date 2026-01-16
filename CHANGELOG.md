@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-01-16
+
 ### Changed
 
 Replaced UC2843A by UC3845 - output signal is active only once every two cycles, indicating the IC matches UCx845 functionality. 
@@ -16,13 +18,11 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
 
 Trying to fix changelog. Release discarded.
 
-
 ## [1.0.1] - 2025-12-21
 
 ### Changed
 
 Changelog updates only - issue with missing changelog on revision 1.0.0
-
 
 ## [1.0.0] - 2025-12-19
 
@@ -35,8 +35,8 @@ Schematic capture complete, except for parts:
 
 CI failed on release - do not use.
 
-[Unreleased]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.0.1...HEAD
+[Unreleased]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.1.0...HEAD
+
+[1.1.0]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.0.1...1.1.0
 
 [1.0.1]: https://github.com/FLRHW/StepUp_module_12to450V/compare/3e65155bfaba51fb4ad2638bce463ab48d852d69...1.0.1
-
-
