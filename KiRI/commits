@@ -1,4 +1,4 @@
-_local_|2025-12-21|root|Local changes not committed|False|True
-ab67c9b|2025-12-21|GitHub Actions|Update Outputs (release)|False|True
-dedb1b7|2025-12-21|FLRHW|Merge, accept dev changes|False|False
-dc36741|2025-12-21|FLRHW|Forcing CI|True|False
+_local_|2026-01-16|root|Local changes not committed|False|True
+783ccf9|2026-01-16|FLRHW|fixed another issue in pre_set_text|True|False
+19dadd2|2026-01-16|FLRHW|Fixed pre_set_text and restored changelog|True|False
+f8c7d1c|2026-01-16|FLRHW|Reverted changelog file to debug issue|True|False
