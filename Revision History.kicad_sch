@@ -12,28 +12,6 @@
 		(comment 9 "NA")
 	)
 	(lib_symbols)
-	(text_box "${RELEASE_BODY_1.1.1}"
-		(exclude_from_sim no)
-		(at 218.44 35.56 0)
-		(size 63.5 111.76)
-		(margins 1.4287 1.4287 1.4287 1.4287)
-		(stroke
-			(width -0.0001)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(face "Arial")
-				(size 1.905 1.905)
-				(color 0 0 0 1)
-			)
-			(justify left top)
-		)
-		(uuid "0c062e2b-2be1-4307-b752-045c211787f4")
-	)
 	(text_box "[${#}] ${TITLE}"
 		(exclude_from_sim no)
 		(at 177.8 16.51 0)
@@ -192,29 +170,6 @@
 			(justify left top)
 		)
 		(uuid "ed7f1ff6-56f6-4427-ab7f-2ffe27717c3d")
-	)
-	(text_box "${RELEASE_TITLE_1.1.1}"
-		(exclude_from_sim no)
-		(at 218.44 31.75 0)
-		(size 63.5 3.81)
-		(margins 1.4287 1.4287 1.4287 1.4287)
-		(stroke
-			(width -0.0001)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(face "Arial")
-				(size 1.905 1.905)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left top)
-		)
-		(uuid "f47af890-f55a-44bf-b54f-b7df3adde008")
 	)
 	(polyline
 		(pts
