@@ -2,11 +2,25 @@
 
 ## [Unreleased]
 
+## [1.0.2]
+
+### Changed
+
+Replaced UC2843A by UC3845 - output signal is active only once every two cycles, indicating the IC matches UCx845 functionality. 
+
+### Added
+
+Measurement data (waveforms, transformer characteristics). See "Supporting docs"
+
+
 ## [1.0.1] - 2025-12-21
 
 ## [1.0.1]
 
-### Fixed changelog only
+### Changed
+
+Changelog updates only - issue with missing changelog on revision 1.0.0
+
 
 ## [1.0.0] - 2025-12-19
 

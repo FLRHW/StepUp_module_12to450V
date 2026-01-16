@@ -85,7 +85,11 @@ Contributions are welcome. Please use pull requests and issues to propose change
     │
     ├─ Report             # Reports for ERC/DRC
     ├─ Schematic          # PDF of schematic
-    ├─ Templates          # Title block templates
+    ├─ Supporting docs    # Measurement data
+    │  ├─ 11.66 kOhm load # Scope captures
+    │  └─ 870 Ohm load    # Scope captures
+    │
+	├─ Templates          # Title block templates
     ├─ Testing
     │  └─ Testpoints      # Testpoints tables      
     │

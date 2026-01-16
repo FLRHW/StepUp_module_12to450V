@@ -557,14 +557,14 @@ definitions:
 
   # Metadata ===================================================================
 
-  PROJECT_NAME: Step-up module 12:450 V
+  PROJECT_NAME: Isolated 12:450 V module
   BOARD_NAME: Module
 
   COMPANY: FR
   DESIGNER: FR
 
   LOGO: 'Logos/module.png'
-  GIT_URL: 'https://github.com/FLRHW/StepUp_module_12to450V'
+  GIT_URL: 'https://github.com/FLRHW/Isolated_12to450V/'
   
   #GIT URL: 'https://github.com/FLRHW/KDT_Hierarchical_KiBot'
   #GIT_URL: 'https://github.com/nguyen-v/KDT_Hierarchical_KiBot'
