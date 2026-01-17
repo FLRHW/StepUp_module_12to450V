@@ -70,8 +70,8 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">4ff14b4</textvar>
-    <textvar name="GIT_HASH_SCH">25e1572</textvar>
+    <textvar name="GIT_HASH_PCB">2feb564</textvar>
+    <textvar name="GIT_HASH_SCH">2feb564</textvar>
     <textvar name="GIT_URL">https://github.com/FLRHW/StepUp_module_12to450V</textvar>
     <textvar name="PROJECT_NAME">Step-up module 12:450 V</textvar>
     <textvar name="RELEASE_BODY_1.0.0">___________________________________
@@ -95,26 +95,16 @@ Changelog updates only - issue with missing changelog on revision 1.0.0</textvar
 Changed
 
 Trying to fix changelog. Release discarded.</textvar>
-    <textvar name="RELEASE_BODY_1.1.0">___________________________________
-
-Changed
-
-Replaced UC2843A by UC3845 - output signal is active only once every two cycles, indicating the IC matches UCx845 functionality. 
-
-___________________________________
-
-Added
-
-Measurement data (waveforms, transformer characteristics). See "Supporting docs"</textvar>
+    <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="RELEASE_DATE">17-Jan-2026</textvar>
     <textvar name="RELEASE_DATE_NUM">2026-01-17</textvar>
     <textvar name="RELEASE_TITLE_1.0.0">Version 1.0.0 - 2025-12-19</textvar>
     <textvar name="RELEASE_TITLE_1.0.1">Version 1.0.1 - 2025-12-21</textvar>
     <textvar name="RELEASE_TITLE_1.0.2">Version 1.0.2 - 2026-01-16</textvar>
-    <textvar name="RELEASE_TITLE_1.1.0">Version 1.1.0 - 2026-01-16</textvar>
+    <textvar name="RELEASE_TITLE_1.1.0">Version 1.1.0 - 2026-01-17</textvar>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="REVISION">1.1.0+ (Unreleased)</textvar>
+    <textvar name="REVISION">1.1.0</textvar>
     <textvar name="SHEET_NAME_1">Cover Page</textvar>
     <textvar name="SHEET_NAME_10">......................................</textvar>
     <textvar name="SHEET_NAME_11">......................................</textvar>
@@ -155,12 +145,12 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">CHECKED</textvar>
+    <textvar name="VARIANT">RELEASED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company>FR</company>
-        <rev>1.1.0+ (Unreleased)</rev>
+        <rev>1.1.0</rev>
         <date>Date2</date>
         <source>StepUp_module_12to450V.kicad_sch</source>
         <comment number="1" value=""/>
@@ -178,7 +168,7 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
       <title_block>
         <title>Block Diagram</title>
         <company>FR</company>
-        <rev>1.1.0+ (Unreleased)</rev>
+        <rev>1.1.0</rev>
         <date>Date2</date>
         <source>Block Diagram.kicad_sch</source>
         <comment number="1" value=""/>
@@ -196,7 +186,7 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
       <title_block>
         <title>Schematic</title>
         <company>FR</company>
-        <rev>1.1.0+ (Unreleased)</rev>
+        <rev>1.1.0</rev>
         <date>Date2</date>
         <source>Schematic.kicad_sch</source>
         <comment number="1" value=""/>
@@ -214,7 +204,7 @@ Measurement data (waveforms, transformer characteristics). See "Supporting docs"
       <title_block>
         <title>Revision History</title>
         <company>FR</company>
-        <rev>1.1.0+ (Unreleased)</rev>
+        <rev>1.1.0</rev>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
         <comment number="1" value=""/>
