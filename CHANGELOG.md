@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-01-17
+
 ## [1.1.0] - 2026-01-16
 
 ### Changed
@@ -36,6 +38,8 @@ Schematic capture complete, except for parts:
 CI failed on release - do not use.
 
 [Unreleased]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.1.0...HEAD
+
+[1.1.0]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.1.0...1.1.0
 
 [1.1.0]: https://github.com/FLRHW/StepUp_module_12to450V/compare/1.0.1...1.1.0
 
